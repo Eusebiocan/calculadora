@@ -1,0 +1,18 @@
+c:\users\warrior\documents\visual studio 2015\Projects\calculadora\calculadora\bin\Debug\calculadora.exe.config
+c:\users\warrior\documents\visual studio 2015\Projects\calculadora\calculadora\bin\Debug\calculadora.exe
+c:\users\warrior\documents\visual studio 2015\Projects\calculadora\calculadora\bin\Debug\calculadora.pdb
+c:\users\warrior\documents\visual studio 2015\Projects\calculadora\calculadora\obj\Debug\calculadora.csprojResolveAssemblyReference.cache
+c:\users\warrior\documents\visual studio 2015\Projects\calculadora\calculadora\obj\Debug\calculadora.Form1.resources
+c:\users\warrior\documents\visual studio 2015\Projects\calculadora\calculadora\obj\Debug\calculadora.Properties.Resources.resources
+c:\users\warrior\documents\visual studio 2015\Projects\calculadora\calculadora\obj\Debug\calculadora.csproj.GenerateResource.Cache
+c:\users\warrior\documents\visual studio 2015\Projects\calculadora\calculadora\obj\Debug\calculadora.exe
+c:\users\warrior\documents\visual studio 2015\Projects\calculadora\calculadora\obj\Debug\calculadora.pdb
+C:\Users\Alumno\Downloads\calculadora\calculadora\bin\Debug\calculadora.exe.config
+C:\Users\Alumno\Downloads\calculadora\calculadora\obj\Debug\calculadora.exe
+C:\Users\Alumno\Downloads\calculadora\calculadora\obj\Debug\calculadora.pdb
+C:\Users\Alumno\Downloads\calculadora\calculadora\bin\Debug\calculadora.exe
+C:\Users\Alumno\Downloads\calculadora\calculadora\bin\Debug\calculadora.pdb
+C:\Users\Alumno\Downloads\calculadora\calculadora\obj\Debug\calculadora.csprojResolveAssemblyReference.cache
+C:\Users\Alumno\Downloads\calculadora\calculadora\obj\Debug\calculadora.Form1.resources
+C:\Users\Alumno\Downloads\calculadora\calculadora\obj\Debug\calculadora.Properties.Resources.resources
+C:\Users\Alumno\Downloads\calculadora\calculadora\obj\Debug\calculadora.csproj.GenerateResource.Cache
